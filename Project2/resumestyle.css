@@ -1,0 +1,60 @@
+
+#hd{
+  background-image:url(https://image.shutterstock.com/image-vector/sunny-background-blue-sky-white-600w-793140343.jpg);
+text-align:center;
+padding: 50px; 
+width:96% ;
+height:100px;
+margine:10px;
+
+} 
+
+#lnav {margin:10px;
+width:12%;
+background:green ;
+height:650px;
+float:left;
+padding:10px;
+text-align:left;
+
+}
+#rnav {margin:10px;
+width:12%;
+background-color:green ;
+height:650px;
+float:left;
+padding:10px;
+text-align:left;
+}
+
+#bd{float:left;
+margin:10px;
+width:60%;
+background-color:blue;
+padding:10px
+height:650px;
+}
+
+horizontial list
+h1 {color: blueviolet;}
+a {font-size:24px; 
+text-decoration: underline;
+color:orange;}
+
+a:hover { font-size:34px;
+  color: rgb(172, 160, 160);}
+a:visited{
+   color:purple;
+  } 
+#ft {clear:both; 
+text-align:center; 
+padding:10px; 
+width:98%;
+height:100px;
+margin-top:2%;
+background-color: orange;
+}
+.hlist{ text-align:center; 
+position:relative;}
+.ul{margin:0px;}
+.li{margin:10px;}
